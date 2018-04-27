@@ -1,8 +1,0 @@
-This project is the experiment of image processing and computer science courses in Beihang University.
-
-It contains five experiments(only two experiments so far).They are:
-1.Histogram equalization
-2.Edge detection and threshold segmentation
-
-
-#Environment：MATLAB 2016b
